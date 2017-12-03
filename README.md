@@ -7,3 +7,6 @@ Reuqires:
 MATLAB 
 ; CVX: a Matlab-based modeling system for convex optimization
 ; SeDuMi or MOSEK or SDPT3 as the solver
+
+Reference: Accurate Semidefinite Programming Models for Optimal Power Flow in Distribution Systems
+https://arxiv.org/abs/1711.07853
